@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chi Nhan Duong"
+title                    : "Chi Nhan Duong Homepage"
 title_separator          : "-"
 name                     : &name "Chi Nhan Duong"
 description              : &description "personal description"
