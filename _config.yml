@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chi Nhan Duong"
   avatar           : "dcnhan.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Senior Technical Staff at DeepcamAI"
+  location         : "Fayetteville, Arkansas"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=A8Ca2lIAAAAJ&hl=en"
   email            : "dcnhan at gmail dot com"
@@ -100,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "dcnhan"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/dcnhan"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
