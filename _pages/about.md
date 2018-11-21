@@ -19,3 +19,6 @@ My current works focus on Face Recognition in surveillance environments, Face Ag
 
 News
 ======
+   * Aug, 2018. Our paper **Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling** is accepted in IJCV18.
+   * Jul, 2017. Our face aging paper is accepted in ICCV17.
+   * Sep, 2018. Become a Research Associate at [Cylab Biometrics Center](http://www.cmu-biometrics.org), Carnegie Mellon University.
