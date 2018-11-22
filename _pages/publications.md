@@ -13,6 +13,9 @@ author_profile: true
 <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2015<br>
 <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Duong_Beyond_Principal_Components_2015_CVPR_paper.pdf">PDF</a>	  
+</td>
+</td>
+</table>
 
 <table width="900" align="center" border="0">
 <td width="25%" valign="top" align="center"><img src="/images/dcnhan.png" alt="game" width="120" height="100" style="border-style: none">
