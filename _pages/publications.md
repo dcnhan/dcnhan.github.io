@@ -7,7 +7,7 @@ author_profile: true
 ### Papers
 
 <table width="900" align="center" border="0">
-<td width="25%" valign="top"><img src="/images/dcnhan.png" alt="game" width="150" height="120" style="border-style: none">
+<td width="25%" valign="top"><img src="/images/dcnhan.png" alt="game" width="100" height="80" style="border-style: none">
 <td width="75%" valign="top">
 <p><heading><strong>Beyond principal components: Deep boltzmann machines for face modeling</strong></heading><br>
 <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
