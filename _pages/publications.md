@@ -12,4 +12,4 @@ author_profile: true
 <p><heading>Beyond principal components: Deep boltzmann machines for face modeling</heading><br>
 <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
 <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2015<br>
-[(***pdf***)](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Duong_Beyond_Principal_Components_2015_CVPR_paper.pdf)	  
+<p><a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Duong_Beyond_Principal_Components_2015_CVPR_paper.pdf">pdf</a>	  
