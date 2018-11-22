@@ -10,5 +10,6 @@ author_profile: true
         <td width="25%" valign="top"><img src="/images/dcnhan.png" alt="game" width="150" height="120" style="border-style: none">
         <td width="75%" valign="top">
           <p><heading>Beyond principal components: Deep boltzmann machines for face modeling</heading><br>
-          <strong> Chi Nhan Duong</strong>, <a href="https://www.cc.gatech.edu/~slee3191/"> Stefan Lee</a>, <a href="https://www.cc.gatech.edu/~parikh/"> Devi Parikh</a>, <a href="https://www.cc.gatech.edu/~dbatra/"> Dhruv Batra</a><br>
-          <em>Conference on Robot Learning (CoRL)</em>, 2018<br>
+          <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
+          <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2015<br>
+	
