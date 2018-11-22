@@ -6,7 +6,7 @@ author_profile: true
 
 ### Papers
 
-<table width="900" align="center" border="0" cellpadding="0">
+<table width="900" align="center" cellpadding="0">
         <td width="25%" valign="top"><img src="/images/dcnhan.png" alt="game" width="150" height="120" style="border-style: none">
         <td width="75%" valign="top">
           <p><a href="https://arxiv.org/pdf/1810.11181.pdf"><heading>Neural Modular Control for Embodied Question Answering</heading></a><br>
