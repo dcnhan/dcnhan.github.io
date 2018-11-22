@@ -12,6 +12,3 @@ author_profile: true
           <p><a href="https://arxiv.org/pdf/1810.11181.pdf"><heading>Neural Modular Control for Embodied Question Answering</heading></a><br>
           <a href="http://abhishekdas.com/"> Abhishek Das</a>, <strong> Georgia Gkioxari</strong>, <a href="https://www.cc.gatech.edu/~slee3191/"> Stefan Lee</a>, <a href="https://www.cc.gatech.edu/~parikh/"> Devi Parikh</a>, <a href="https://www.cc.gatech.edu/~dbatra/"> Dhruv Batra</a><br>
           <em>Conference on Robot Learning (CoRL)</em>, 2018<br>
-        </td> 
-        </td>
-      </table>
