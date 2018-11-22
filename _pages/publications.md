@@ -25,7 +25,7 @@ author_profile: true
 	</p></td></table>
 
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_CRRN.png" alt="game" width="150" height="120" style="border-style: none"></td>
 	<td width="75%" valign="top">
 	<p><heading><strong>Deep Contextual Recurrent Residual Networks for Scene Labeling</strong></heading><br>
 	T. Hoang Ngan Le, <strong> Chi Nhan Duong</strong>, Ligong Han, Khoa Luu, Kha Gia Quach, Marios Savvides<br>
