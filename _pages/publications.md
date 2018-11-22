@@ -24,6 +24,33 @@ author_profile: true
 	<a href="https://arxiv.org/pdf/1607.06871.pdf">[arxiv]</a>
 	</p></td></table>
 
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top">
+	<p><heading><strong>Deep Contextual Recurrent Residual Networks for Scene Labeling</strong></heading><br>
+	T. Hoang Ngan Le, <strong> Chi Nhan Duong</strong>, Ligong Han, Khoa Luu, Kha Gia Quach, Marios Savvides<br>
+	<em>Pattern Recognition (PR)</em>, 2018.<br>
+	<a href="https://www.sciencedirect.com/science/article/pii/S0031320318300074">[PDF]</a>
+	</p></td></table>
+
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top">
+	<p><heading><strong>Deep Contextual Recurrent Residual Networks for Scene Labeling</strong></heading><br>
+	T. Hoang Ngan Le, Kha Gia Quach, Khoa Luu, <strong> Chi Nhan Duong</strong>, Marios Savvides<br>
+	<em>IEEE Transactions on Image Processing (TIP)</em>, 2018.<br>
+	<a href="https://ieeexplore.ieee.org/document/8259369/">[PDF]</a>
+	</p></td></table>
+
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top">
+	<p><heading><strong>Non-convex Online Robust PCA: Enhance Sparsity via lp-norm Minimization</strong></heading><br>
+	Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Khoa Luu, Tien D. Bui<br>
+	<em>Computer Vision and Image Understanding  (CVIU)</em>, 2017.<br>
+	<a href="https://www.sciencedirect.com/science/article/pii/S1077314217300450">[PDF]</a>
+	</p></td></table>
+
 ### Conference Publications
 <table width="1200" align="center" border="0">
 	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="game" width="150" height="120" style="border-style: none"></td>
