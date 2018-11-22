@@ -36,7 +36,7 @@ author_profile: true
 <table width="1200" align="center" border="0">
 	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="game" width="150" height="120" style="border-style: none"></td>
 	<td width="75%" valign="top">
-	<p><heading><strong>Deep Contextual Recurrent Residual Networks for Scene Labeling</strong></heading><br>
+	<p><heading><strong>Reformulating Level Sets as Deep Recurrent Neural Network Approach to Se- mantic Segmentation</strong></heading><br>
 	T. Hoang Ngan Le, Kha Gia Quach, Khoa Luu, <strong> Chi Nhan Duong</strong>, Marios Savvides<br>
 	<em>IEEE Transactions on Image Processing (TIP)</em>, 2018.<br>
 	<a href="https://ieeexplore.ieee.org/document/8259369/">[PDF]</a>
