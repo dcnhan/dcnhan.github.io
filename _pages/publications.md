@@ -7,7 +7,7 @@ author_profile: true
 ### Journal Publications
 
 <table width="900" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="game" width="120" height="100" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_SDAP.png" alt="game" width="120" height="100" style="border-style: none"></td>
 	<td width="75%" valign="top">
 	<p><heading><strong>Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, T. Hoang Ngan Le, Marios Savvides, Tien D. Bui<br>
