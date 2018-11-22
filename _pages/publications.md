@@ -67,3 +67,12 @@ author_profile: true
 	<em>Computer and Robot Vision (CRV)</em>, 2018.<b>(Accepted)</b><br>
 	<a href="https://arxiv.org/pdf/1802.08726.pdf">[arxiv]</a>
 	</p></td></table>
+
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_TNVP.png" alt="thumbnail" width="180" height="150" style="border-style: none"></td>
+	<td width="75%" valign="top">
+	<p><heading><strong>Temporal Non-Volume Preserving Approach to Facial Age-Progression and Age-Invariant Face Recognition</strong></heading><br>
+	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, T. Hoang Ngan Le, Marios Savvides<br>
+	<em>International Conference on Computer Vision (ICCV)</em>, 2017. <b>ORAL</b><br>
+	<a href="http://openaccess.thecvf.com/content_iccv_2017/html/Duong_Temporal_Non-Volume_Preserving_ICCV_2017_paper.html">[PDF]</a>
+	</p></td></table>
