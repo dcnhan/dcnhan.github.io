@@ -7,7 +7,7 @@ author_profile: true
 ### Journal Publications
 
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_SDAP.png" alt="game" width="180" height="150" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_SDAP.png" alt="thumbnail" width="180" height="150" style="border-style: none"></td>
 	<td width="75%" valign="top">
 	<p><heading><strong>Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, T. Hoang Ngan Le, Marios Savvides, Tien D. Bui<br>
@@ -16,7 +16,7 @@ author_profile: true
 	</p></td></table>
 
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
 	<td width="75%" valign="top">
 	<p><heading><strong>Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br><em>International Journal of Computer Vision (IJCV)</em>, 2018.<br>
@@ -25,7 +25,7 @@ author_profile: true
 	</p></td></table>
 
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_CRRN.png" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_CRRN.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
 	<td width="75%" valign="top">
 	<p><heading><strong>Deep Contextual Recurrent Residual Networks for Scene Labeling</strong></heading><br>
 	T. Hoang Ngan Le, <strong> Chi Nhan Duong</strong>, Ligong Han, Khoa Luu, Kha Gia Quach, Marios Savvides<br>
@@ -34,7 +34,7 @@ author_profile: true
 	</p></td></table>
 
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_CRLS.png" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_CRLS.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
 	<td width="75%" valign="top">
 	<p><heading><strong>Reformulating Level Sets as Deep Recurrent Neural Network Approach to Se- mantic Segmentation</strong></heading><br>
 	T. Hoang Ngan Le, Kha Gia Quach, Khoa Luu, <strong> Chi Nhan Duong</strong>, Marios Savvides<br>
@@ -43,7 +43,7 @@ author_profile: true
 	</p></td></table>
 
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_LP_NORM.jpg" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_LP_NORM.jpg" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
 	<td width="75%" valign="top">
 	<p><heading><strong>Non-convex Online Robust PCA: Enhance Sparsity via lp-norm Minimization</strong></heading><br>
 	Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Khoa Luu, Tien D. Bui<br>
@@ -53,7 +53,7 @@ author_profile: true
 
 ### Conference Publications
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="game" width="150" height="120" style="border-style: none"></td>
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
 	<td width="75%" valign="top"><p><heading><strong>Beyond principal components: Deep boltzmann machines for face modeling</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br><em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2015<br>
 	<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Duong_Beyond_Principal_Components_2015_CVPR_paper.pdf">[PDF]</a>
