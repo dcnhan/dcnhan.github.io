@@ -4,4 +4,5 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching
+### Teaching Assistant
+Concordia University
