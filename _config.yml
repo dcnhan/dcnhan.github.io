@@ -234,7 +234,7 @@ defaults:
       path: ""
       type: experience
     values:
-      layout: single
+      layout: experience
       author_profile: true
       share: true
 
