@@ -90,11 +90,19 @@ author_profile: true
 
 <table width="1200" align="center" border="0">
     <td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
-    <td width="75%" valign="top"><p><heading><strong>RobustDeepAppearance Models</strong></heading><br>
+    <td width="75%" valign="top"><p><heading><strong>Robust Deep Appearance Models</strong></heading><br>
     Kha Gia Quach*, <strong> Chi Nhan Duong*</strong>, Khoa Luu, Tien D. Bui<br>
-    <em>The 23rd International Conference on Patern Recognition (ICPR)</em>, 2016<br>
-    (* equal contribution) <br>
+    <em>The 23rd International Conference on Pattern Recognition (ICPR)</em>, 2016<br>
+    <b>(* equal contribution) </b><br>
     <a href="https://ieeexplore.ieee.org/abstract/document/7899665/">[PDF]</a>
+    </p></td></table>
+
+<table width="1200" align="center" border="0">
+    <td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
+    <td width="75%" valign="top"><p><heading><strong>Depth-based 3D Hand Pose Tracking</strong></heading><br>
+    Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Khoa Luu, Tien D. Bui<br>
+    <em>The 23rd International Conference on Pattern Recognition (ICPR)</em>, 2016<br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7900051/">[PDF]</a>
     </p></td></table>
 
 <table width="1200" align="center" border="0">
