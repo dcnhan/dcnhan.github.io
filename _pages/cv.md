@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Please find my full CV [here](/files/dcnhan_CV.pdf) (update Aug 2018)
+Please find my full CV 
+<a href="/files/dcnhan_CV.pdf">[here]</a> 
+(update Aug 2018)
