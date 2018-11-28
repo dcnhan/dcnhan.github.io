@@ -71,7 +71,7 @@ author_profile: true
 	</p></td></table>
     
 <table width="1200" align="center" border="0">
-    <td width="25%" valign="top" align="center"><img src="/images/featured_TNVP.png" alt="thumbnail" width="180" height="150" style="border-style: none"></td>
+    <td width="25%" valign="top" align="center"><img src="/images/featured_hand_CVPRW.png" alt="thumbnail" width="180" height="150" style="border-style: none"></td>
     <td width="75%" valign="top">
     <p><heading><strong>Robust Hand Detection and Classification in Vehicles and in the Wild</strong></heading><br>
     T. Hoang Ngan Le, Kha Gia Quach, ChenChen Zhu, <strong> Chi Nhan Duong</strong>, Khoa Luu, Marios Savvides<br>
@@ -81,11 +81,20 @@ author_profile: true
     
 <table width="1200" align="center" border="0">
     <td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
-    <td width="75%" valign="top"><p><heading><strong>Longitudinal Face Mod- eling via Temporal Deep Restricted Boltzmann Machines</strong></heading><br>
+    <td width="75%" valign="top"><p><heading><strong>Longitudinal Face Modeling via Temporal Deep Restricted Boltzmann Machines</strong></heading><br>
     <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
     <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2016<br>
     <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Duong_Longitudinal_Face_Modeling_CVPR_2016_paper.pdf">[PDF]</a>
     <a>[Project Page]</a>
+    </p></td></table>
+
+<table width="1200" align="center" border="0">
+    <td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
+    <td width="75%" valign="top"><p><heading><strong>RobustDeepAppearance Models</strong></heading><br>
+    Kha Gia Quach*, <strong> Chi Nhan Duong*</strong>, Khoa Luu, Tien D. Bui<br>
+    <em>The 23rd International Conference on Patern Recognition (ICPR)</em>, 2016<br>
+    (* equal contribution) <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/7899665/">[PDF]</a>
     </p></td></table>
 
 <table width="1200" align="center" border="0">
