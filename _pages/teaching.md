@@ -4,4 +4,4 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Professional Experience
+### Teaching
