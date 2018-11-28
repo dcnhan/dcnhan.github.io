@@ -131,3 +131,17 @@ author_profile: true
     <em>The 21st International Conference on Pattern Recognition (ICPR)</em>, 2012 <br>
 	<a href="https://ieeexplore.ieee.org/abstract/document/6460117">[PDF]</a>
 	</p></td></table>
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top"><p><heading><strong>Gabor Wavelet-Based Appearance Models</strong></heading><br>
+	Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Khoa Luu, Hoai Bac Le<br>
+    <em>The 9th IEEE-RIVF Intl. Conf. on Computing and Communication Tech. (RIVF)</em>, 2012 <b>ORAL</b><br>
+	<a href="https://ieeexplore.ieee.org/abstract/document/6169865/">[PDF]</a>
+	</p></td></table>
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top"><p><heading><strong>Fine tuning age-estimation with global and local facial features</strong></heading><br>
+	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, Hoai Bac Le, Karl Ricanek<br>
+    <em>The 36th International Con- ference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2011 <br>
+	<a href="https://www.researchgate.net/profile/Karl_Ricanek/publication/228864857_Fine_Tuning_Age-estimation_with_Global_and_Local_Facial_Features/links/02bfe50d46b5662825000000/Fine-Tuning-Age-estimation-with-Global-and-Local-Facial-Features.pdf">[PDF]</a>
+	</p></td></table>
