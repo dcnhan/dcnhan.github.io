@@ -121,3 +121,11 @@ author_profile: true
     <em>NIPS Workshop on Non-convex Optimization for Machine Learning: Theory and Practice (NIPSW)</em>, 2015<br>
 	<a>[PDF]</a>
 	</p></td></table>
+
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top"><p><heading><strong>Are Sparse Representation and Dictionary Learning Good for Handwritten Character Recognition?</strong></heading><br>
+	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Tien D. Bui<br>
+    <em>The 14th International Conference on Frontiers in Handwriting Recognition (ICFHR)</em>, 2014 <b>ORAL</b><br>
+	<a href="https://ieeexplore.ieee.org/document/6981081/">[PDF]</a>
+	</p></td></table>
