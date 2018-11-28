@@ -49,6 +49,7 @@ author_profile: true
 	Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Khoa Luu, Tien D. Bui<br>
 	<em>Computer Vision and Image Understanding  (CVIU)</em>, 2017.<br>
 	<a href="https://www.sciencedirect.com/science/article/pii/S1077314217300450">[PDF]</a>
+	<a href="https://github.com/qkgia/OLP-RPCA">[Code]</a>
 	</p></td></table>
 
 ### Conference Publications
@@ -113,3 +114,10 @@ author_profile: true
 	<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Duong_Beyond_Principal_Components_2015_CVPR_paper.pdf">[PDF]</a>
 	</p></td></table>
 
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top"><p><heading><strong>Robust lp-norm Singular Value Decomposition</strong></heading><br>
+	Kha Gia Quach, Khoa Luu, <strong> Chi Nhan Duong</strong>, Tien D. Bui<br>
+    <em>NIPS Workshop on Non-convex Optimization for Machine Learning: Theory and Practice (NIPSW)</em>, 2015<br>
+	<a>[PDF]</a>
+	</p></td></table>
