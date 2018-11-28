@@ -232,7 +232,7 @@ defaults:
   # _experience
   - scope:
       path: ""
-      type: experience
+      type: publications
     values:
       layout: single
       author_profile: true
