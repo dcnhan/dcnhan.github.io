@@ -11,9 +11,10 @@ main:
           
   - title: "Honors and Awards"
     url: /honors/
+
+  - title: "Academic Services"
+    url: /academic_services/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
