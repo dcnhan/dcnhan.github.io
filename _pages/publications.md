@@ -129,3 +129,11 @@ author_profile: true
     <em>The 14th International Conference on Frontiers in Handwriting Recognition (ICFHR)</em>, 2014 <b>ORAL</b><br>
 	<a href="https://ieeexplore.ieee.org/document/6981081/">[PDF]</a>
 	</p></td></table>
+
+<table width="1200" align="center" border="0">
+	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
+	<td width="75%" valign="top"><p><heading><strong>Sparse representation and Low-rank approximation for Robust Face Recognition</strong></heading><br>
+	Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Tien D. Bui<br>
+    <em>The 22nd International Conference on Pattern Recognition (ICPR)</em>, 2014 <br>
+	<a href="https://ieeexplore.ieee.org/abstract/document/6976948">[PDF]</a>
+	</p></td></table>
