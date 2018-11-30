@@ -15,8 +15,8 @@ author_profile: true
 	<a href="https://arxiv.org/pdf/1711.10520.pdf">[arxiv]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
-	<td width="25%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="thumbnail" width="150" height="120" style="border-style: none"></td>
-	<td width="75%" valign="top">
+	<td width="40%" valign="top" align="center"><img src="/images/featured_DAMs_journal.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+	<td width="60%" valign="middle">
 	<p><heading><strong>Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br><em>International Journal of Computer Vision (IJCV)</em>, 2018.<br>
 	<a href="https://link.springer.com/article/10.1007%2Fs11263-018-1113-3">[PDF]</a>
