@@ -6,7 +6,7 @@ author_profile: true
 
 ## Professional Experience
 #### Cylab Biometrics Center, Carnegie Mellon University, USA &nbsp;&nbsp;&nbsp; Sep 2016 - 2018
-***Research Associate***
+   ***Research Associate***
 * Deep Learning Models for Face Matching
 * Soft biometrics with age and gender estimation
 * Tractable Deep Generative Models for Longitudinal Face Modeling 
