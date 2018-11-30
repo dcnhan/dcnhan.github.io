@@ -7,8 +7,8 @@ author_profile: true
 ### Journal Publications
 
 <table width="1200" align="center" border="0">
-	<td width="45%" valign="top" align="center"><img src="/images/featured_SDAP.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
-	<td width="55%" valign="top">
+	<td width="40%" valign="top" align="center"><img src="/images/featured_SDAP.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+	<td width="60%" valign="top">
 	<p><heading><strong>Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, T. Hoang Ngan Le, Marios Savvides, Tien D. Bui<br>
 	<em>International Journal of Computer Vision (IJCV)</em>, 2018.<b>(Under review)</b><br>
