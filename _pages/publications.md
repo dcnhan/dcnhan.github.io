@@ -74,7 +74,7 @@ author_profile: true
     <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Le_Robust_Hand_Detection_CVPR_2017_paper.pdf">[PDF]</a>
     </p></td></table>
 <table width="1200" align="center" border="0">
-    <td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+    <td width="40%" valign="top" align="center"><img src="/projects/aging_project/images/2046aa_0f85caaf0c5541bb89d7d53260b9d912-mv2_d_1878_1308_s_2.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
     <td width="60%" valign="top"><p><heading><strong>Longitudinal Face Modeling via Temporal Deep Restricted Boltzmann Machines</strong></heading><br>
     <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
     <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2016<br>
