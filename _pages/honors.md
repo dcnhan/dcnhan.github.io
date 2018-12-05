@@ -4,7 +4,7 @@ permalink: /honors/
 author_profile: true
 ---
  
-[//]: <> (* Nominated for the Governor General Gold Medal (the Best thesis award) in Canada, 2018.)
+[//]: # (* Nominated for the Governor General Gold Medal (the Best thesis award) in Canada, 2018.)
 * Nominated for the CIPPRS Doctoral Dissertation Award, 2017.
 * Concordia Accelerator Award, 2017
 * Concordia University Conference and Exposition Award, 2017
