@@ -133,7 +133,7 @@ author_profile: true
 	<a href="https://ieeexplore.ieee.org/abstract/document/6460117">[PDF]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
-	<td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+	<td width="40%" valign="top" align="center"><img src="/images/featured_GWN.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
 	<td width="60%" valign="top"><p><heading><strong>Gabor Wavelet-Based Appearance Models</strong></heading><br>
 	Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Khoa Luu, Hoai Bac Le<br>
     <em>The 9th IEEE-RIVF Intl. Conf. on Computing and Communication Tech. (RIVF)</em>, 2012 <b>ORAL</b><br>
