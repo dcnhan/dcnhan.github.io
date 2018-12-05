@@ -79,7 +79,7 @@ author_profile: true
     <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
     <em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2016<br>
     <a href="https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Duong_Longitudinal_Face_Modeling_CVPR_2016_paper.pdf">[PDF]</a>
-    <a>[Project Page]</a>
+    <a href="/projects/aging_project/faceaging.html">[Project Page]</a>
     </p></td></table>
 <table width="1200" align="center" border="0">
     <td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
