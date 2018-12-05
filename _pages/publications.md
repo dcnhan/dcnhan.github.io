@@ -88,6 +88,8 @@ author_profile: true
     <em>The 23rd International Conference on Pattern Recognition (ICPR)</em>, 2016<br>
     <b>(* equal contribution) </b><br>
     <a href="https://ieeexplore.ieee.org/abstract/document/7899665/">[PDF]</a>
+    <a href="https://arxiv.org/abs/1607.00659/">[arxiv]</a>
+
     </p></td></table>
 <table width="1200" align="center" border="0">
     <td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
