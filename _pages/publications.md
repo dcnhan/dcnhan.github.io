@@ -106,11 +106,11 @@ author_profile: true
 	<a href="https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Duong_Beyond_Principal_Components_2015_CVPR_paper.pdf">[PDF]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
-	<td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+	<td width="40%" valign="top" align="center"><img src="/images/featured_NIPSW2015.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
 	<td width="60%" valign="top"><p><heading><strong>Robust lp-norm Singular Value Decomposition</strong></heading><br>
 	Kha Gia Quach, Khoa Luu, <strong> Chi Nhan Duong</strong>, Tien D. Bui<br>
     <em>NIPS Workshop on Non-convex Optimization for Machine Learning: Theory and Practice (NIPSW)</em>, 2015<br>
-	<a>[PDF]</a>
+	<a href="/files/nips2015_workshop_non-convex.pdf">[PDF]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
 	<td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
