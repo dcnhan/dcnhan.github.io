@@ -82,7 +82,7 @@ author_profile: true
     <a href="/projects/aging_project/faceaging.html">[Project Page]</a>
     </p></td></table>
 <table width="1200" align="center" border="0">
-    <td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+    <td width="40%" valign="top" align="center"><img src="/images/featured_RDAMs.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
     <td width="60%" valign="top"><p><heading><strong>Robust Deep Appearance Models</strong></heading><br>
     Kha Gia Quach*, <strong> Chi Nhan Duong*</strong>, Khoa Luu, Tien D. Bui<br>
     <em>The 23rd International Conference on Pattern Recognition (ICPR)</em>, 2016<br>
