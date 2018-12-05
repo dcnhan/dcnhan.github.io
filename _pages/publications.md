@@ -126,7 +126,7 @@ author_profile: true
 	<a href="https://ieeexplore.ieee.org/abstract/document/6976948">[PDF]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
-	<td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+	<td width="40%" valign="top" align="center"><img src="/images/featured_EyeLocalization.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
 	<td width="60%" valign="top"><p><heading><strong>Robust Eye Localization in Video By Combining Eye Detector and Eye Tracker</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Pham Dinh Thang Cap, Thanh Duc Ngo , Duy-Dinh Le, Hoai Bac Le, Duc Anh Duong, Shin’ichi Satoh<br>
     <em>The 21st International Conference on Pattern Recognition (ICPR)</em>, 2012 <br>
