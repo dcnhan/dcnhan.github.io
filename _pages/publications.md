@@ -119,7 +119,7 @@ author_profile: true
 	<a href="https://ieeexplore.ieee.org/document/6981081/">[PDF]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
-	<td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+	<td width="40%" valign="top" align="center"><img src="/images/featured_SparseCodingLowRank_FaceRecognition.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
 	<td width="60%" valign="top"><p><heading><strong>Sparse representation and Low-rank approximation for Robust Face Recognition</strong></heading><br>
 	Kha Gia Quach, <strong> Chi Nhan Duong</strong>, Tien D. Bui<br>
     <em>The 22nd International Conference on Pattern Recognition (ICPR)</em>, 2014 <br>
