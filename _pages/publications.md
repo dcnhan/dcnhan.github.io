@@ -50,6 +50,13 @@ author_profile: true
 
 ### Conference Publications
 <table width="1200" align="center" border="0">
+	<td width="40%" valign="top" align="center"><img src="/images/featured_VideoAging.gif" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
+	<td width="60%" valign="top">
+	<p><heading><strong>Automatic Face Aging in Videos via Deep Reinforcement Learning</strong></heading><br>
+	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, T. Hoang Ngan Le<br>
+	<a href="https://arxiv.org/pdf/1811.11082.pdf">[arxiv]</a>
+	</p></td></table>
+<table width="1200" align="center" border="0">
 	<td width="40%" valign="top" align="center"><img src="/images/feature_Aging_Review.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
 	<td width="60%" valign="top">
 	<p><heading><strong>Longitudinal Face Aging in the Wild-Recent Deep Learning Approaches</strong></heading><br>
@@ -143,6 +150,6 @@ author_profile: true
 	<td width="40%" valign="top" align="center"><img src="/images/featured_Local_Global_AgeEstimation.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
 	<td width="60%" valign="top"><p><heading><strong>Fine tuning age-estimation with global and local facial features</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, Hoai Bac Le, Karl Ricanek<br>
-    <em>The 36th International Con- ference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2011 <br>
+    <em>The 36th International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2011 <br>
 	<a href="https://www.researchgate.net/profile/Karl_Ricanek/publication/228864857_Fine_Tuning_Age-estimation_with_Global_and_Local_Facial_Features/links/02bfe50d46b5662825000000/Fine-Tuning-Age-estimation-with-Global-and-Local-Facial-Features.pdf">[PDF]</a>
 	</p></td></table>
