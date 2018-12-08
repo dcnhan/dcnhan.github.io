@@ -50,14 +50,6 @@ author_profile: true
 
 ### Conference Publications
 <table width="1200" align="center" border="0">
-	<td width="40%" valign="top" align="center"><img src="/images/featured_VideoAging.gif" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
-	<td width="60%" valign="top">
-	<p><heading><strong>Automatic Face Aging in Videos via Deep Reinforcement Learning</strong></heading><br>
-	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, T. Hoang Ngan Le<br>
-	<a href="https://arxiv.org/pdf/1811.11082.pdf">[arxiv]</a>
-	<a>[Project Page]</a>
-	</p></td></table>
-<table width="1200" align="center" border="0">
 	<td width="40%" valign="top" align="center"><img src="/images/feature_Aging_Review.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
 	<td width="60%" valign="top">
 	<p><heading><strong>Longitudinal Face Aging in the Wild-Recent Deep Learning Approaches</strong></heading><br>
