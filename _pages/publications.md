@@ -140,7 +140,7 @@ author_profile: true
 	<a href="https://ieeexplore.ieee.org/abstract/document/6169865/">[PDF]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
-	<td width="40%" valign="top" align="center"><img src="/images/featured_DAMs.png" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
+	<td width="40%" valign="top" align="center"><img src="/images/featured_Local_Global_AgeEstimation.jpg" alt="thumbnail" width="300" height="240" style="border-style: none"></td>
 	<td width="60%" valign="top"><p><heading><strong>Fine tuning age-estimation with global and local facial features</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, Hoai Bac Le, Karl Ricanek<br>
     <em>The 36th International Con- ference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2011 <br>
