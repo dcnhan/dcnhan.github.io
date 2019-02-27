@@ -11,7 +11,7 @@ author_profile: true
 	<td width="60%" valign="middle">
 	<p><heading><strong>Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning</strong></heading><br>
 	<strong> Chi Nhan Duong</strong>, Kha Gia Quach, Khoa Luu, T. Hoang Ngan Le, Marios Savvides, Tien D. Bui<br>
-	<em>International Journal of Computer Vision (IJCV)</em>, 2018.<b>(Under review)</b><br>
+	<em>International Journal of Computer Vision (IJCV)</em>, 2019.<b>(Accepted)</b><br>
 	<a href="https://arxiv.org/pdf/1711.10520.pdf">[arxiv]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
@@ -50,10 +50,18 @@ author_profile: true
 
 ### Conference Publications
 <table width="1200" align="center" border="0">
+	<td width="40%" valign="top" align="center"><img src="/images/featured_VideoAging.gif" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
+	<td width="60%" valign="top">
+	<p><heading><strong>Automatic Face Aging in Videos via Deep Reinforcement Learning</strong></heading><br>
+	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
+	<em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2019.<b>(Accepted)</b><br>
+	<a href="https://arxiv.org/pdf/1811.11082.pdf">[arxiv]</a>
+	</p></td></table>
+<table width="1200" align="center" border="0">
 	<td width="40%" valign="top" align="center"><img src="/images/feature_Aging_Review.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
 	<td width="60%" valign="top">
 	<p><heading><strong>Longitudinal Face Aging in the Wild-Recent Deep Learning Approaches</strong></heading><br>
-	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
+	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le<br>
 	<em>Computer and Robot Vision (CRV)</em>, 2018.<b>(Accepted)</b><br>
 	<a href="https://arxiv.org/pdf/1802.08726.pdf">[arxiv]</a>
 	</p></td></table>
@@ -70,7 +78,7 @@ author_profile: true
     <td width="60%" valign="top">
     <p><heading><strong>Robust Hand Detection and Classification in Vehicles and in the Wild</strong></heading><br>
     T. Hoang Ngan Le, Kha Gia Quach, ChenChen Zhu, <strong> Chi Nhan Duong</strong>, Khoa Luu, Marios Savvides<br>
-    <em>Conference on Computer Vision and Patern Recognition Work- shop (CVPRW)</em>, 2017.<br>
+    <em>Conference on Computer Vision and Pattern Recognition Work- shop (CVPRW)</em>, 2017.<br>
     <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Le_Robust_Hand_Detection_CVPR_2017_paper.pdf">[PDF]</a>
     </p></td></table>
 <table width="1200" align="center" border="0">
