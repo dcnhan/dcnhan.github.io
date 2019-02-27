@@ -53,7 +53,7 @@ author_profile: true
 	<td width="40%" valign="top" align="center"><img src="/images/featured_VideoAging.gif" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
 	<td width="60%" valign="top">
 	<p><heading><strong>Automatic Face Aging in Videos via Deep Reinforcement Learning</strong></heading><br>
-	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
+	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le<br>
 	<em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2019.<b>(Accepted)</b><br>
 	<a href="https://arxiv.org/pdf/1811.11082.pdf">[arxiv]</a>
 	</p></td></table>
@@ -61,7 +61,7 @@ author_profile: true
 	<td width="40%" valign="top" align="center"><img src="/images/feature_Aging_Review.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
 	<td width="60%" valign="top">
 	<p><heading><strong>Longitudinal Face Aging in the Wild-Recent Deep Learning Approaches</strong></heading><br>
-	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le<br>
+	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Tien D. Bui<br>
 	<em>Computer and Robot Vision (CRV)</em>, 2018.<b>(Accepted)</b><br>
 	<a href="https://arxiv.org/pdf/1802.08726.pdf">[arxiv]</a>
 	</p></td></table>
