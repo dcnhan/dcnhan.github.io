@@ -1,0 +1,342 @@
+<html><head>
+
+<style type="text/css">
+	body {
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+		font-weight:300;
+		font-size:18px;
+		margin-left: auto;
+		margin-right: auto;
+		width: 1100px;
+	}
+	
+	h1 {
+		font-weight:300;
+	}
+    p + ol {
+    margin-top: -10px;
+    margin-bottom: -5px;
+    }
+    
+	
+	.disclaimerbox {
+		background-color: #eee;		
+		border: 1px solid #eeeeee;
+		border-radius: 10px ;
+		-moz-border-radius: 10px ;
+		-webkit-border-radius: 10px ;
+		padding: 20px;
+	}
+    .text-justify{text-align:justify}
+
+    pre{display:block;padding:9.5px;margin:0 0 10px;font-size:13px;line-height:1.42857143;word-break:break-all;word-wrap:break-word;color:#333;background-color:#f5f5f5;border:1px solid #ccc;border-radius:4px}
+    .pre-scrollable{max-height:340px;overflow-y:scroll}
+    .container{margin-right:auto;margin-left:auto;padding-left:15px;padding-right:15px}
+    
+	video.header-vid {
+		height: 140px;
+		border: 1px solid black;
+		border-radius: 10px ;
+		-moz-border-radius: 10px ;
+		-webkit-border-radius: 10px ;
+	}
+	
+	img.header-img {
+		height: 140px;
+		border: 1px solid black;
+		border-radius: 10px ;
+		-moz-border-radius: 10px ;
+		-webkit-border-radius: 10px ;
+	}
+	
+	img.rounded {
+		border: 1px solid #eeeeee;
+		border-radius: 10px ;
+		-moz-border-radius: 10px ;
+		-webkit-border-radius: 10px ;
+	}
+	
+	a:link,a:visited
+	{
+		color: #1367a7;
+		text-decoration: none;
+	}
+	a:hover {
+		color: #208799;
+	}
+	
+	td.dl-link {
+		height: 160px;
+		text-align: center;
+		font-size: 22px;
+	}
+	
+	.layered-paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+		box-shadow:
+		        0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+		        5px 5px 0 0px #fff, /* The second layer */
+		        5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+		        10px 10px 0 0px #fff, /* The third layer */
+		        10px 10px 1px 1px rgba(0,0,0,0.35), /* The third layer shadow */
+		        15px 15px 0 0px #fff, /* The fourth layer */
+		        15px 15px 1px 1px rgba(0,0,0,0.35), /* The fourth layer shadow */
+		        20px 20px 0 0px #fff, /* The fifth layer */
+		        20px 20px 1px 1px rgba(0,0,0,0.35), /* The fifth layer shadow */
+		        25px 25px 0 0px #fff, /* The fifth layer */
+		        25px 25px 1px 1px rgba(0,0,0,0.35); /* The fifth layer shadow */
+		margin-left: 10px;
+		margin-right: 45px;
+	}
+
+	.paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+		box-shadow:
+		        0px 0px 1px 1px rgba(0,0,0,0.35); /* The top layer shadow */
+
+		margin-left: 10px;
+		margin-right: 45px;
+	}
+
+
+	.layered-paper { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+		box-shadow:
+		        0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+		        5px 5px 0 0px #fff, /* The second layer */
+		        5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+		        10px 10px 0 0px #fff, /* The third layer */
+		        10px 10px 1px 1px rgba(0,0,0,0.35); /* The third layer shadow */
+		margin-top: 5px;
+		margin-left: 10px;
+		margin-right: 30px;
+		margin-bottom: 5px;
+	}
+	
+	.vert-cent {
+		position: relative;
+	    top: 50%;
+	    transform: translateY(-50%);
+	}
+	
+	hr
+	{
+		border: 0;
+		height: 1px;
+		background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+	}
+</style>
+
+
+  
+		<title>Automatic Face Aging in Videos via Deep Reinforcement Learning</title>
+		<meta property="og:image" content="${`./images/Aging_RL_framework.jpg`}">
+		<meta property="og:title" content="Automatic Face Aging in Videos">
+  </head>
+
+  <body>
+    <br>
+          <center>
+              <span style="font-size:45px"><strong>Automatic Face Aging in Videos via Deep Reinforcement Learning</strong></span><br><br>
+	  		  <table width="800px" align="center">
+	  			  <tbody><tr>
+	  	              <td width="150px" align="center">
+	  					<center>
+	  						<span style="font-size:24px"><a target="_blank" href="https://dcnhan.github.io">Chi Nhan Duong</a><sup>1</sup></span>
+		  		  		</center>
+		  		  	  </td>
+	  	              <td width="150px" align="center">
+	  					<center>
+	  						<span style="font-size:24px"><a target="_blank" href="http://csce.uark.edu/~khoaluu/">Khoa Luu</a><sup>2</sup></span>
+		  		  		</center>
+		  		  	  </td>
+	  	              <td width="140px" align="center">
+	  					<center>
+	  						<span style="font-size:24px"><a target="_blank" href="https://sites.google.com/view/kquach/home?authuser=0">Kha Gia Quach</a><sup>1</sup></span>
+		  		  		</center>
+		  		  	  </td>
+                      <td width="140px" align="center">
+	  					<center>
+	  						<span style="font-size:24px">Nghia Nguyen<sup>2</sup></span>
+		  		  		</center>
+		  		  	  </td>
+                      </tr></tbody></table>
+              <table width="600px" align="center">
+                      <tbody><tr>
+                      <td width="140px" align="center">
+	  					<center>
+	  						<span style="font-size:24px"><a target="_blank" href="https://people.cs.clemson.edu/~ekp/">Eric Patterson</a><sup>3</sup></span>
+		  		  		</center>
+		  		  	  </td>
+                      <td width="140px" align="center">
+	  					<center>
+	  						<span style="font-size:24px"><a target="_blank" href="https://users.encs.concordia.ca/~bui/">Tien D. Bui</a><sup>1</sup></span>
+		  		  		</center>
+		  		  	  </td>
+                      <td width="140px" align="center">
+	  					<center>
+	  						<span style="font-size:24px"><a target="_blank" href="https://www.nganle.net">Ngan Le</a><sup>4</sup></span>
+		  		  		</center>
+		  		  	  </td>
+                          
+			  </tr></tbody></table>
+          		
+
+	  		  <table width="650px" align="center">
+	  			  <tbody><tr>
+	  	              
+
+		  		  	 </tr>
+	  			  <tr>
+			  </tr></tbody></table>
+	  		  <table width="800px" align="center">
+	  	              <tbody><tr><td width="150px" align="center">
+	  					<center>
+	  						<span style="font-size:18px">
+                                <b><sup>1</sup> Computer Science and Software Engineering, Concordia University, Canada</b>
+                                <br><b><sup>2</sup> Computer Science and Computer Engineering, University of Arkansas, USA</b>
+                                <br><b><sup>3</sup> School of Computing, Clemson University, USA</b>
+                                <br><b><sup>4</sup> Electrical and Computer Engineering, Carnegie Mellon University, USA</b>
+		  		  		</span></center>
+		  		  	  </td>
+		  		  	 </tr>
+			  </tbody></table>
+          </center>
+
+        
+      <br><br>
+  		  <table width="600px" align="center">
+  			  <tbody>
+                <tr align="center">
+                    <td>
+                  <video height="300" controls>
+                    <source src="videos/video_mark.m4v" type="video/mp4">
+                  </video>
+                    <br>
+                    <strong>Given a video, our approach can synthesize an aged-progressed video with consistent aging features across video frames. </strong>
+                    </td></tr>
+           </tbody></table>
+        <table width="1000px" align="center">
+  			  <tbody>
+                <tr align="justify">
+	  		  	<td >
+		<p><br> <span style="font-size:17px">This paper presents a novel approach for synthesizing automatically age-progressed facial images in video sequences using Deep Reinforcement Learning. The proposed method models facial structures and the longitudinal face-aging process of given subjects coherently across video frames. The approach is optimized using a long-term reward, Reinforcement Learning function with deep feature extraction from Deep Convolutional Neural Network. Unlike previous age-progression methods that are only able to synthesize an aged likeness of a face from a single input image, the proposed approach is capable of age-progressing facial likenesses in videos with consistently synthesized facial features across frames. In addition, the deep reinforcement learning method guarantees preservation of the visual identity of input faces after age-progression. Results on videos of our new collected aging face AGFW-v2 database demonstrate the advantages of the proposed solution in terms of both quality of age-progressed faces, temporal smoothness, and cross-age face verification.</span></p>
+                    <br>
+				</td>
+	  		  </tr>
+                  <tr>
+  	              <td width="800px">
+  					<center>
+  	                	<img class="rounded" src="./images/Aging_RL_framework.jpg" height="400px"><br>
+					</center>
+  	              </td>
+                </tr>
+  	              <tr><td width="800px">
+  					<center>
+  	                	<span style="font-size:15px"><i>Our proposed framework consists of three main processing steps: (1) Feature embedding; (2) Manifold traversal; and (3) Synthesizing final images from updated features. In the second step, a Deep Reinforcement Learning based framework is proposed to guarantee the consistency between video frames in terms of aging changes added during synthesis process.</i>
+					</span></center>
+  	              </td>
+			
+			  </tr>
+
+  		  </tbody></table><br>    	  
+		  <hr>
+
+		<center><h1>Others Age-progressed Videos</h1>
+        <video height="300" controls>
+            <source src="videos/video_Trump.m4v" type="video/mp4">
+        </video>
+        <br>
+        <strong> </strong>
+            
+        <br>
+        <video height="300" controls>
+            <source src="videos/video_others.m4v" type="video/mp4">
+        </video>
+        <br>
+        <strong></strong>
+		
+		  	
+  		<br><hr>  	  	
+  	  	<center><h1>Databases</h1>
+        <table width="1000px" align="center">
+            <tbody><tr> <td>
+		  <p align="justify"><strong>The AginG Faces in the Wild (AGFW-v2) (Image Set)</strong> consists of 36299 images with the age ranging from 10 to 64 years.
+This database is collected from three sources:</p>
+              <ol>
+                  <li>The search engine using different keywords (i.e. "male 20 years old", etc.).</li>
+<li>The Productive Aging Laboratory (PAL) database [1].</li>
+<li>Mugshot images that are accessible from public domains.</li>
+               </ol>
+                <p align="justify"><font color="red"> Please notice that this dataset is made available for academic research purpose only. Images in the database are collected from the Internet, and the copyright belongs to the original owners. If any of the images belongs to you and you would like it removed, please kindly inform us, we will remove it from our dataset immediately.</font> <br>
+                The cropped faces of AGFW-v2 is available <a href="https://drive.google.com/file/d/171iZQ8dqx3Yyp5t2gq06DtSWv9RMnNjG/view">here</a></p>
+                </td></tr>
+            </tbody>
+        </table>
+        <br>
+        
+        <table width="1000px" align="center">
+            <tbody><tr> <td>
+                <p align="justify"><strong>The AginG Faces in the Wild (AGFW-v2) (Video Set)</strong></p>
+                Comming Soon ...
+                   </td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <br>
+        <table width="1000px" align="center">
+            <tbody><tr> <td>
+             <strong>Reference</strong>
+             <br>
+               [1] M. Minear and D. C. Park. A life span database of adult facial stimuli. Behavior Research Methods, Instruments, & Computers, 36(4):630–633, 2004.
+                   </td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <hr>
+  		  <center><h1>Paper and Citation</h1></center>
+            <table width="850px" align="center">
+	 		
+  			  <tbody><tr>
+ 				  <td><a target="_blank" href="https://arxiv.org/pdf/1811.11082.pdf"><img class="layered-paper-big" style="height:175px" src="images/video_aging_thumbnail.png"></a></td>
+				  <td><span style="font-size:14pt"><strong>Automatic Face Aging in Videos via Deep Reinforcement Learning</strong><br><br>
+				  Chi Nhan Duong, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le<br><br>
+				  In <i>CVPR</i>, 2019 &nbsp;<a target="_blank" href="https://arxiv.org/abs/1811.11082">[arXiv]</a>
+				  <span style="font-size:4pt"><a target="_blank" href="https://arxiv.org/pdf/1811.11082.pdf"><br></a>
+				  </span>
+				  </span></td>
+  	              
+              </tr>
+  		  </tbody></table>
+		  <br><br>
+
+		  <table width="200px" align="center">
+                  
+			  <tbody><tr>
+                  
+				  <td><span style="font-size:14pt">
+Please add a reference if you are using the dataset.
+                  <br><br>
+<pre>@INPROCEEDINGS{duong2019automatic,
+author = {Automatic Face Aging in Videos via Deep Reinforcement Learning},
+title = {Chi Nhan Duong and Khoa Luu and Kha Gia Quach and Nghia Nguyen and Eric Patterson and Tien D. Bui and Ngan Le},
+booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+year={2019}
+}
+        </pre>  
+                  </span></td>
+              </tr>
+  		  </tbody></table>
+        <hr>
+  		  <center><h1>News and Tech Websites</h1></center>
+            <table width="950px" align="center">
+	 		
+  			  <tbody><tr>
+ 				  <td><a target="_blank" href="https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future"><img style="height:50px" src="images/fast_company.png"></a></td>  	              
+              </tr>
+  		  </tbody></table>
+		  <br><br>
+              
+
+
+ 
+</center></center></body></html>

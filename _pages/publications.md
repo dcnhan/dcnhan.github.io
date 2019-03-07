@@ -56,6 +56,8 @@ author_profile: true
 	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le<br>
 	<em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2019.<b>(Accepted)</b><br>
 	<a href="https://arxiv.org/pdf/1811.11082.pdf">[arxiv]</a>
+    <a href="/projects/video_aging_project/video_aging.html">[Project Page]</a>
+    <a href="https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future">[Media]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
 	<td width="40%" valign="top" align="center"><img src="/images/feature_Aging_Review.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
@@ -78,7 +80,7 @@ author_profile: true
     <td width="60%" valign="top">
     <p><heading><strong>Robust Hand Detection and Classification in Vehicles and in the Wild</strong></heading><br>
     T. Hoang Ngan Le, Kha Gia Quach, ChenChen Zhu, <strong> Chi Nhan Duong</strong>, Khoa Luu, Marios Savvides<br>
-    <em>Conference on Computer Vision and Pattern Recognition Work- shop (CVPRW)</em>, 2017.<br>
+    <em>Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)</em>, 2017.<br>
     <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/papers/Le_Robust_Hand_Detection_CVPR_2017_paper.pdf">[PDF]</a>
     </p></td></table>
 <table width="1200" align="center" border="0">
