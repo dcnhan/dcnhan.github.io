@@ -56,7 +56,7 @@ author_profile: true
 	<strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Nghia Nguyen, Eric Patterson, Tien D. Bui, Ngan Le<br>
 	<em>Conference on Computer Vision and Pattern Recognition (CVPR)</em>, 2019.<b>(Accepted)</b><br>
 	<a href="https://arxiv.org/pdf/1811.11082.pdf">[arxiv]</a>
-    <a href="/projects/video_aging_project/video_aging.html">[Project Page]</a>
+    <a href="/RL-VAP/index.html">[Project Page]</a>
     <a href="https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future">[Media]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
