@@ -19,8 +19,11 @@ My current works focus on Face Recognition in surveillance environments, Face Ag
 
 News
 ======
+  * **Mar, 2019.** Our paper ***Automatic Face Aging in Videos via Deep Reinforcement Learning*** is in the news [FastCompany.com](https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future).
    * **Feb, 2019.** Our paper ***Automatic Face Aging in Videos via Deep Reinforcement Learning*** is accepted to CVPR2019.
+   * **Feb, 2019.** Accepted the invitation to be a reviewer of ICCV 2019.
    * **Jan, 2019.** Our paper ***Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning*** is accepted to IJCV2019, Special Issue on Deep Learning for Face Analysis.
+   * **Nov, 2018.** Serve as a reviewer of CVPR 2019.
    * **Aug, 2018.** Our paper ***Deep Appearance Models: A Deep Boltzmann Machine Approach for Face Modeling*** is accepted to IJCV18.
    * **Jul, 2017.** Our face aging paper ***Temporal non-volume preserving approach to facial age-progression and age-invariant face recognition*** is accepted to ICCV17.
    * **Sep, 2016.** Become a Research Associate at [Cylab Biometrics Center](http://www.cmu-biometrics.org), Carnegie Mellon University.
