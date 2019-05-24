@@ -19,6 +19,7 @@ My current works focus on Face Recognition in surveillance environments, Face Ag
 
 News
 ======
+  * **May, 2019.**Receive the ***Doctoral Prize in Engineering and Computer Science***, Concordia University.
   * **Mar, 2019.** Our paper ***Automatic Face Aging in Videos via Deep Reinforcement Learning*** is in the news [FastCompany.com](https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future).
    * **Feb, 2019.** Our paper ***Automatic Face Aging in Videos via Deep Reinforcement Learning*** is accepted to CVPR2019.
    * **Feb, 2019.** Accepted the invitation to be a reviewer of ICCV 2019.
