@@ -19,9 +19,11 @@ My current works focus on Face Recognition in surveillance environments, Face Ag
 
 News
 ======
+  * **June, 2019.** I'm selected as an Outstanding Reviewer of CVPR 2019.
+  * **June, 2019.** Our paper ***MobiFace: A Lightweight Deep Learning Face Recognition on Mobile Devices*** is accepted to BTAS 2019.
   * **May, 2019.**Receive the ***Doctoral Prize in Engineering and Computer Science***, Concordia University.
   * **Mar, 2019.** Our paper ***Automatic Face Aging in Videos via Deep Reinforcement Learning*** is in the news [FastCompany.com](https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future).
-   * **Feb, 2019.** Our paper ***Automatic Face Aging in Videos via Deep Reinforcement Learning*** is accepted to CVPR2019.
+   * **Feb, 2019.** Our paper ***Automatic Face Aging in Videos via Deep Reinforcement Learning*** is accepted to CVPR 2019.
    * **Feb, 2019.** Accepted the invitation to be a reviewer of ICCV 2019.
    * **Jan, 2019.** Our paper ***Learning from Longitudinal Face Demonstration - Where Tractable Deep Modeling Meets Inverse Reinforcement Learning*** is accepted to IJCV2019, Special Issue on Deep Learning for Face Analysis.
    * **Nov, 2018.** Serve as a reviewer of CVPR 2019.

@@ -60,6 +60,41 @@ author_profile: true
     <a href="https://www.fastcompany.com/90314606/this-new-ai-tool-makes-creepily-realistic-videos-of-faces-in-the-future">[Media]</a>
 	</p></td></table>
 <table width="1200" align="center" border="0">
+    <td width="40%" valign="top" align="center"><img src="/images/featured_ShrinkTeaNet.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
+    <td width="60%" valign="top">
+    <p><heading><strong>ShrinkTeaNet: Million-scale Lightweight Face Recognition via Shrinking Teacher-Student Networks</strong></heading><br>
+    <strong> Chi Nhan Duong</strong>, Khoa Luu, Kha Gia Quach, Ngan Le<br>
+    <a href="https://arxiv.org/abs/1905.10620">[arxiv]</a>
+    </p></td></table>
+<table width="1200" align="center" border="0">
+    <td width="40%" valign="top" align="center"><img src="/images/featured_MobiFace.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
+    <td width="60%" valign="top">
+    <p><heading><strong>MobiFace: A Lightweight Deep Learning Face Recognition on Mobile Devices</strong></heading><br>
+    <strong> Chi Nhan Duong</strong>, Kha Gia Quach, Ibsa Jalata, Ngan Le, Khoa Luu<br>
+    <a href="https://arxiv.org/abs/1811.11080">[arxiv]</a>
+    </p></td></table>
+<table width="1200" align="center" border="0">
+    <td width="40%" valign="top" align="center"><img src="/images/featured_UNVP.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
+    <td width="60%" valign="top">
+    <p><heading><strong>Recognition in Unseen Domains: Domain Generalization via Universal Non-volume Preserving Models</strong></heading><br>
+    Thanh-Dat Truong, <strong> Chi Nhan Duong</strong>, Khoa Luu, Minh-Triet Tran<br>
+    <a href="https://arxiv.org/abs/1905.13040">[arxiv]</a>
+    </p></td></table>
+<table width="1200" align="center" border="0">
+    <td width="40%" valign="top" align="center"><img src="/images/featured_deGIA.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
+    <td width="60%" valign="top">
+    <p><heading><strong>Image Alignment in Unseen Domains via Domain Deep Generalization</strong></heading><br>
+    Thanh-Dat Truong, Khoa Luu, <strong> Chi Nhan Duong</strong>,  Ngan Le, Minh-Triet Tran<br>
+    <a href="https://arxiv.org/abs/1905.12028">[arxiv]</a>
+    </p></td></table>
+<table width="1200" align="center" border="0">
+    <td width="40%" valign="top" align="center"><img src="/images/featured_NN_Invertible_Conv.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
+    <td width="60%" valign="top">
+    <p><heading><strong>Generative Flow via Invertible nxn Convolution</strong></heading><br>
+    Thanh-Dat Truong, Khoa Luu, <strong> Chi Nhan Duong</strong>,  Ngan Le, Minh-Triet Tran<br>
+    <a href="https://arxiv.org/abs/1905.10170">[arxiv]</a>
+    </p></td></table>
+<table width="1200" align="center" border="0">
 	<td width="40%" valign="top" align="center"><img src="/images/feature_Aging_Review.png" alt="thumbnail" width="360" height="300" style="border-style: none"></td>
 	<td width="60%" valign="top">
 	<p><heading><strong>Longitudinal Face Aging in the Wild-Recent Deep Learning Approaches</strong></heading><br>
