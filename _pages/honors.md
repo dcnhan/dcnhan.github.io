@@ -3,6 +3,7 @@ title: "Honors and Awards"
 permalink: /honors/
 author_profile: true
 ---
+* Outstanding Reviewer, CVPR 2019.
 * Doctoral Prize in Engineering and Computer Science, Concordia University, 2019.
 * Nominated for the CIPPRS Doctoral Dissertation Award, 2017.
 * Concordia Accelerator Award, 2017
