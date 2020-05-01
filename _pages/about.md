@@ -19,6 +19,8 @@ My current works focus on Face Recognition in surveillance environments, Face Ag
 
 News
 ======
+  * **Mar, 2020.** Our paper ***Domain Generalization via Universal Non-volume Preserving Approach*** is accepted to CRV 2020.
+  * **Feb, 2020.** Our paper ***Vec2Face: Unveil Human Faces from their Blackbox Features in Face Recognition*** is accepted as an oral presentation in CVPR 2020.
   * **June, 2019.** I'm selected as an Outstanding Reviewer of CVPR 2019.
   * **June, 2019.** Our paper ***MobiFace: A Lightweight Deep Learning Face Recognition on Mobile Devices*** is accepted to BTAS 2019.
   * **May, 2019.**Receive the ***Doctoral Prize in Engineering and Computer Science***, Concordia University.

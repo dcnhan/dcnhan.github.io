@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please find my full CV __*[here](/files/dcnhan_MyCV_Mar272019.pdf)*__ (update Mar 2019)
+Please find my full CV __*[here](/files/dcnhan_CV.pdf)*__ (update May 2020)
